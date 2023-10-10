@@ -1,3 +1,7 @@
+.container {
+    display:grid;
+}
+
 .zone {
     padding:30px 50px;
     margin:40px 60px;
@@ -17,11 +21,21 @@
     box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
 }
 
+/* NAV */
+.main-nav {
+    display:flex;
+    list-style:none;
+    font-size: 0.7em;
+}
+
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
 /***********************************************************************
  *  Green Background
  **********************************************************************/
 .green{
+    grid-column-start: span 3;
+    margin: 0px;
+    height:100%
     background: #56B870; /* Old browsers */
     background: -moz-linear-gradient(top, #56B870 0%, #a5c956 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#56B870), color-stop(100%,#a5c956)); /* Chrome,Safari4+ */
@@ -35,6 +49,10 @@
  *  Red Background
  **********************************************************************/
 .red{
+    grid-column-start: span 3;
+    margin: 0px;
+    grid-row-end: span 2;
+    height: 100%;
     background: #C655BE; /* Old browsers */
     background: -moz-linear-gradient(top, #C655BE 0%, #cf0404 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#C655BE), color-stop(100%,#cf0404)); /* Chrome,Safari4+ */
