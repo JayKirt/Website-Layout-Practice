@@ -5,4 +5,5 @@
 <ul>
   <li> Full responsive ✔️</li>
   <li> Sticky nav, stuck at top of screen ✔️</li>
+  <li> Flex box layout ✔️</li>
 </ul>
