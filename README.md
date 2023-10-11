@@ -10,4 +10,5 @@
   <li>CSS cheatsheet link in nav ✔️</li>
   <li>Transforms ✔️ </li>
   <li>Pictures are the correct size. ✔️</li>
+  <li> Removed margin from body and browser default styling ✔️ </li>
 </ul>
