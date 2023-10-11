@@ -9,5 +9,5 @@
   <li> CSS grid layout ✔️</li>
   <li> CSS cheatsheet link in nav ✔️</li>
   <li> Transforms ✔️ </li>
-  <li> re</li>
+  <li> Pictures are the correct size. ✔️</li>
 </ul>
