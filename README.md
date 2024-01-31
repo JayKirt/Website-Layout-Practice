@@ -7,7 +7,7 @@
   <li>Sticky nav, stuck at top of screen. ✔️</li>
   <li>Flex box layout. ✔️</li>
   <li>CSS grid layout. ✔️</li>
-  <li>CSS cheatsheet link in nav.  ✔️</li>
+  <li>CSS cheatsheet link in nav. ✔️</li>
   <li>Transforms. ✔️ </li>
   <li>Pictures are the correct size.  ✔️</li>
   <li>Removed margin from body and browser default styling.  ✔️ </li>
